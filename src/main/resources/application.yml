@@ -1,0 +1,11 @@
+server:
+  port: 9200
+  
+spring:
+  rabbitmq:
+    host: 10.14.47.239
+    port: 5672
+    virtual-host: /vhost_ly
+    username: ly
+    password: Pass8183
+    
